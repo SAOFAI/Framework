@@ -1,2 +1,31 @@
-# Framework
-The working version of SAOFAI (Secure Adoption and Operation Framework for Artificial Intelligence)
+# Framework (Working Version)
+The working version of SAOFAI (Secure Adoption and Operation Framework for Artificial Intelligence).
+
+## Overview
+
+### Summary
+SAOFAI is a community-driven standard that provides guidelines and controls for entities, i.e., individuals and organizations, to minimize risks and maximize the value of using Artificial Intelligence (AI) in their operations. It is open-source, developed by an international, interdisciplinary community of experts through a democratic process. All changes are transparent, discussed, and voted on by the community to mitigate the effects of subjective biases and incentives.
+
+### Audience
+The target audience of SAOFAI includes individuals and organizations aiming to automate their operations with AI. These entities thus face the dual challenges of, firstly, adopting and, secondly, operating their processes supported by AI.
+
+### Objective
+The primary objective of SAOFAI is to minimize the operational, strategic, compliance, reputational, and cybersecurity risks associated with the adoption and operation of AI. The secondary objective is to maximize value by reducing costs and increasing benefits derived from AI.
+
+### Structure
+This document is divided into two main parts - Operation and Adoption. The Operation section presents a blueprint for a process integrated with AI, designed to serve as a flexible baseline that can be adapted to a specific entity’s needs. The Adoption section presents a blueprint for a project aimed at adopting the process for a specific entity. Both the Operation and Adoption sections further break down their respective phases into tasks, describe their objectives and contexts, and provide a list of guidelines and controls. These controls are grouped by risk, cost reduction, and benefit maximization addressed by each.
+
+### Contributions
+Contributions to the projects are done via the [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). After a new PR is created, the community (contributors listed in the [Contributors](https://github.com/SAOFAI/Framework/main/README.md#contributors) chapter) vote on it. Once at least have of them [approves the change](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request), the change is merged to the `main` branch.
+
+## Operation
+
+**[Work in progress]**
+
+## Adoption
+
+**[Work in progress]**
+
+## Contributors
+
+**[Work in progress]**
