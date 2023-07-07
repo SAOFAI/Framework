@@ -22,13 +22,20 @@ Contributions to the projects are done via the [Pull Requests](https://docs.gith
 
 ### Entity
 
-An individual or an organization that operates in an environment with various [processes](#process).
+An individual or an organization that operates using [processes](#process) and interacts with the [environment](#environment). To differentiate from other entities operating in the environment, the entity implementing the Framework is referred to as the *focal entity*.
 
 ![Figure](Figures/EntityDefinition.png)
 
 ### Process
 
 According to Howard, a process is a set of related activities that are performed by an agent (human or non-human) who has specific *capabilities*  and changes the *state* of these activies (Howard 2003).
+
+### Environment
+
+The environment consists of a variety of entities that interact with each other. Notable entities that may influence the adoption and operation of AI by the focal entity are:
+- customers
+- partners
+- regulatory bodies
 
 ## Operation
 
