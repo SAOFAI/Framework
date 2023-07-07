@@ -24,6 +24,8 @@ Contributions to the projects are done via the [Pull Requests](https://docs.gith
 
 An individual or an organization that operates in an environment with various [processes](#process).
 
+![Figure](Figures/EntityDefinition.png)
+
 ### Process
 
 According to Howard, a process is a set of related activities that are performed by an agent (human or non-human) who has specific *capabilities*  and changes the *state* of these activies (Howard 2003).
