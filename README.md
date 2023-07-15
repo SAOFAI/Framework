@@ -1,4 +1,4 @@
-# Framework (Working Version)
+# SAOFAI (Working Version)
 The working version of SAOFAI (Secure Adoption and Operation Framework for Artificial Intelligence).
 
 ## Overview
@@ -21,24 +21,23 @@ First, the document [defines](#definitions) all concepts used in the document. N
 Contributions to the projects are done via the [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). After a new PR is created, the community (contributors listed in the [Contributors](https://github.com/SAOFAI/Framework#contributors) chapter) vote on it. Once at least have of them [approves the change](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request), the change is merged to the `main` branch.
 
 ## Definitions
-*[WIP]*
 
 ### Guidelines
-SAOFAI establishes *guidelines* for various approaches to adopting and operating AI within a focal entity.
+SAOFAI establishes *guidelines* for implementing selected AI [adoption](#adoption-architectures) and [operation](#operation-architectures) architectures in the [focal entity](#entity).
 
 ### Control
-A *control* is a quantifiable metric, or a KPI (key performance indicator), of a specific area of interest. SAOFAI defines controls along with every guideline, to help measuring its implementation in the focal entity.
+A *control* is a quantifiable metric, or a KPI (key performance indicator), of a specific area of interest. SAOFAI defines controls along with every [guideline](#guidelines), to help measuring its implementation in the [focal entity](#entity).
 
 ### Entity
-An *entity* is an individual or an organization that operates using [processes](#process) and interacts with the [environment](#environment). To differentiate from other entities operating in the environment, the entity implementing SAOFAI is referred to as the *focal entity*.
+An *entity* is an individual or an organization that operates using [processes](#process) and interacts with the [environment](#environment). To differentiate from other entities operating in the [environment](#environment), the entity implementing SAOFAI is referred to as the *focal entity*.
 
 ![Figure](Figures/EntityDefinition.png)
 
 ### Risk
-*[WIP]*
+*Risk* refers to the potential for loss or adverse outcomes due to the implementation and utilization of [AI](#artificial-intelligence-ai) within the [focal entity's](#entity) [processes](#process). Such risks are shaped by the [environment](#environment) and may include technical issues, data privacy concerns, ethical implications, regulatory changes, employee resistance, customer impacts, to name a few.
 
 ### Value
-*[WIP]*
+*Value* refers to the potential for benefit or utility of the implementation and utilization of [AI](#artificial-intelligence-ai) within the [focal entity's](#entity) [processes](#process), in comparison to the baseline (i.e., without [AI](#artificial-intelligence-ai)) [processes](#process). Such value may include enhancement of operational efficiency, generation of insightful data for decision-making, automation of repetitive tasks, prediction of future trends and behaviors, augmentation of human capabilities, to name a few.
 
 ### Artificial Intelligence (AI)
 
