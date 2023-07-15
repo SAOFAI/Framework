@@ -48,7 +48,7 @@ Drawing upon the definition by Russel (Russel 2010), SAOFAI defines AI as an [IT
 Since [AI models](#ai-model) can only learn how to solve [domain problems](#domain-problem), [training data](#training-data) is an integral part of the AI system. In order to teach the model, an [operator](#operator) provides [training data](#training-data) and performs training activities.
 
 ### Domain Problem
-*[WIP]*
+A *domain problem* refers to a specific issue or challenge within a certain field or discipline that an [AI](#artificial-intelligence-ai) system is designed to solve or address. These problems are usually complex and require specialized knowledge of the domain. The [AI model](#ai-model) within the AI system is trained to solve these domain problems by learning from relevant [training data](#training-data). The domain problem could range from predicting customer behaviors in marketing, diagnosing diseases in healthcare, identifying fraudulent transactions in banking, to automating repetitive tasks in various industries.
 
 ### (Human) Agent
 *[WIP]*
@@ -73,10 +73,12 @@ As suggested by Arrieta (Arrieta 2020), there are two categories of AI models wh
 - **explainable models** which "enable humans to understand, appropriately trust, and effectively manage the emerging generation of artificially intelligent partners" (Arrieta 2020).
 
 ### Training Data
-*[WIP]*
+*Training data* refers to the dataset used to train an [AI model](#ai-model). This data is typically a comprehensive, well-structured, and often times moderated collection of relevant information that reflects the variety and complexity of the [domain problem](#domain-problem) the [AI model](#ai-model) is designed to solve. It includes both the inputs that the model should process and the desired outputs (also known as labels in supervised learning), allowing the [AI model](#ai-model) to learn the patterns and relationships needed to make accurate predictions or decisions.
+
+Noteworthy, quality, diversity, and representativeness of the training data significantly influence the performance and reliability of the [AI model](#ai-model) (Kilkenny 2018).
 
 ### Real Data
-*[WIP]*
+*Real data* refers to the actual data that an [AI model](#ai-model) processes in a live or operational environment after it has been trained with [training data](#training-data). This can be any form of input that the model receives during its operations to make predictions, generate insights, drive decision-making, etc. The model's performance and effectiveness are measured based on how well it handles and processes this real data.
 
 ### Inference
 *[WIP]*
@@ -155,5 +157,6 @@ This section describes architectures for integrating AI into business processes,
 
 ## References
 - Arrieta, Alejandro Barredo, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador García et al. "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI." Information fusion 58 (2020): 82-115.
+- Kilkenny, Monique F., and Kerin M. Robinson. "Data quality:“Garbage in–garbage out”." Health Information Management Journal 47, no. 3 (2018): 103-105.
 - Russell, Stuart J. Artificial intelligence a modern approach. Pearson Education, Inc., 2010.
 - Smith, Howard. "Business process management—the third wave: business process modelling language (bpml) and its pi-calculus foundations." Information and Software Technology 45, no. 15 (2003): 1065-1069.
