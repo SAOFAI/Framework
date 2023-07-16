@@ -148,7 +148,7 @@ Following sections describe strategies of operating the baseline process with AI
 *[WIP]*
 
 ## Adoption Architectures
-This section describes architectures for integrating AI into business processes, and discusses on the risks and possible advantages each structure could offer in the context of adoption. In simple terms, adoption architectures represent various ways a company can implement and integrate AI-driven processes into their business operations.
+This section describes architectures for implementing [operation architectures](#operation-architectures) in the [focal entity](#entity), and discusses on the risks and possible advantages each approach could offer in the context of adoption. In simple terms, adoption architectures represent various ways a company can adopt AI in their business operations.
 
 *[WIP]*
 
