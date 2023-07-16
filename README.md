@@ -51,16 +51,16 @@ Since [AI models](#ai-model) can only learn how to solve [domain problems](#doma
 A *domain problem* refers to a specific issue or challenge within a certain field or discipline that an [AI](#artificial-intelligence-ai) system is designed to solve or address. These problems are usually complex and require specialized knowledge of the domain. The [AI model](#ai-model) within the AI system is trained to solve these domain problems by learning from relevant [training data](#training-data). The domain problem could range from predicting customer behaviors in marketing, diagnosing diseases in healthcare, identifying fraudulent transactions in banking, to automating repetitive tasks in various industries.
 
 ### (Human) Agent
-*[WIP]*
+A *(Human) Agent* refers to an individual (specifically, but not limited to, human) who performs specific activities within a [process](#process). Agents possess specific [capabilities](#capability) that allow them to alter the states of activities they are engaged in. They could be employees, managers, or any other individuals involved in the operation of a business process. Within the framework of AI-supported processes, a human agent may interact with the [AI system](#artificial-intelligence-ai), providing inputs and receiving outputs through an interface of an [application](#application).
 
 ### Operator
-*[WIP]*
+An *Operator* refers to the individual or team responsible for the development, training, and maintenance of an [AI system](#artificial-intelligence-ai). The Operator prepares and provides the [training data](#training-data) required to teach the [AI model](#ai-model), conducts the model training activities, and adjusts the system as needed based on performance feedback and changes in the operational environment. The Operator plays a crucial role in shaping the behavior and performance of the AI model, and thus carries a significant share of the responsibility for minimizing associated risks and maximizing value from the AI system.
 
 ### IT System
-*[WIP]*
+An *IT System* refers to an integrated set of modules and subsystems (e.g., hardware, software, data, models, etc.) that work together to deliver digital services or process digital information. The components work together to deliver a defined set of functionalities.
 
 ### Application
-*[WIP]*
+An *Application* is a subsystem of an [AI system](#artificial-intelligence-ai) that serves as an interface between the [AI model](#artificial-intelligence-ai) and a user (a [human agent](#human-agent)). This application enables the user to formulate a problem or input data that is then translated into a form understandable by the [AI model](#ai-model). Upon processing this input, the AI model produces an output ([inference](#inference)) which the application then translates back into a form that the [human agent](#human-agent) can understand. Essentially, the application functions as a translator and communicator between the [human agent](#human-agent) and the [AI model](#artificial-intelligence-ai), enabling meaningful interactions and enhancing the usability of the [AI system](#artificial-intelligence-ai). It is the bridge that allows for the practical use of [AI models](#ai-model) in the context of specific [domain problems](#domain-problem).
 
 ### AI Model
 Drawing upon the definition by Russel (Russel 2010), SAOFAI defines an AI model as a [subsystem](#it-system) of an [AI system](#artificial-intelligence-ai) that transforms inputs ([real data](#real-data)) into outputs ([inference](#inference)) by extrapolating patterns found in [training data](#training-data). In this view, the behavior of the model is a derivative of its configuration and the training data, and can only be changed by retraining with different variations of those.
@@ -75,22 +75,22 @@ As suggested by Arrieta (Arrieta 2020), there are two categories of AI models wh
 ### Training Data
 *Training data* refers to the dataset used to train an [AI model](#ai-model). This data is typically a comprehensive, well-structured, and often times moderated collection of relevant information that reflects the variety and complexity of the [domain problem](#domain-problem) the [AI model](#ai-model) is designed to solve. It includes both the inputs that the model should process and the desired outputs (also known as labels in supervised learning), allowing the [AI model](#ai-model) to learn the patterns and relationships needed to make accurate predictions or decisions.
 
-Noteworthy, quality, diversity, and representativeness of the training data significantly influence the performance and reliability of the [AI model](#ai-model) (Kilkenny 2018).
+Noteworthy, quality, diversity, and representativeness of the training data significantly influence the performance and reliability of the [AI model](#ai-model) (Kilkenny 2018). SAOFAI recognizes the training data as an integral part of the [AI system](#artificial-intelligence-ai), given the model's behavior is tightly coupled with the training data.
 
 ### Real Data
 *Real data* refers to the actual data that an [AI model](#ai-model) processes in a live or operational environment after it has been trained with [training data](#training-data). This can be any form of input that the model receives during its operations to make predictions, generate insights, drive decision-making, etc. The model's performance and effectiveness are measured based on how well it handles and processes this real data.
 
 ### Inference
-*[WIP]*
+*Inference* refers to the output produced by an [AI model](#ai-model) in response to a specific input from [real data](#real-data) in a live or operational environment. The inference is derived from patterns the model has learned during its training phase with [training data](#training-data). This output could be a prediction, a classification, a recommendation, or any other kind of decision or insight that the [AI model](#ai-model) is designed to provide based on the input data.
 
 ### Operations
-*[WIP]*
+*Operations* refer to the day-to-day activities and tasks carried out by an [entity](#entity) to achieve its objectives. They are organized into [processes](#process), which are structured sets of related activities performed by [agents](#human-agent). Operations span across the [focal entity](#entity) and other entities from the [environment](#environment).
 
 ### Process
 A process is a set of related activities that are performed by an agent (human or non-human) who has specific [capabilities] to change states of the activities (Howard 2003). See the [baseline integration model](#baseline) as an example.
 
 ### Capability
-*[WIP]*
+A *capability* refers to specific abilities or skills possessed by an [agent](#human-agent) (either human or artificial) that enable them to perform a class of activities within a [process](#process).
 
 ### Environment
 An environment consists of a variety of [entities](#entity) that interact with the *focal entity* and each other, and in result have direct impact on [risks](#risk) and [values](#value) in the ecosystem.
