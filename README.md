@@ -116,7 +116,7 @@ Following sections describe strategies of operating the baseline process with AI
 
 ### AI-supported Activity
 
-#### Potential benefits
+#### Value
 *[WIP]*
 
 #### Risks
@@ -127,7 +127,7 @@ Following sections describe strategies of operating the baseline process with AI
 
 ### AI-supported Agent
 
-#### Potential benefits
+#### Value
 *[WIP]*
 
 #### Risks
@@ -138,10 +138,10 @@ Following sections describe strategies of operating the baseline process with AI
 
 ### AI Agent
 
-#### Operation
+#### Value
 *[WIP]*
 
-#### Adoption
+#### Risks
 *[WIP]*
 
 #### Case study
