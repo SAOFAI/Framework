@@ -87,7 +87,7 @@ Noteworthy, quality, diversity, and representativeness of the training data sign
 *Operations* refer to the day-to-day activities and tasks carried out by an [entity](#entity) to achieve its objectives. They are organized into [processes](#process), which are structured sets of related activities performed by [agents](#human-agent). Operations span across the [focal entity](#entity) and other entities from the [environment](#environment).
 
 ### Process
-A process is a set of related activities that are performed by an agent (human or non-human) who has specific [capabilities] to change states of the activities (Howard 2003). See the [baseline integration model](#baseline) as an example.
+A process is a set of related activities that are performed by an agent (human or non-human) who has specific [capabilities](#capability) to change states of the activities (Howard 2003). See the [baseline integration model](#baseline) as an example.
 
 ### Capability
 A *capability* refers to specific abilities or skills possessed by an [agent](#human-agent) (either human or artificial) that enable them to perform a class of activities within a [process](#process).
