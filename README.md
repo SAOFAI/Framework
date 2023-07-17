@@ -14,6 +14,10 @@ The target audience of SAOFAI includes individuals and organizations aiming to a
 ### Objective
 The primary objective of SAOFAI is to minimize the operational, strategic, compliance, reputational, and cybersecurity [risks](#risk) associated with the [adoption](#adoption) and [operation](#operation) of [AI](#artificial-intelligence-ai). The secondary objective is to maximize [value](#value) by reducing costs and increasing benefits derived from [AI](#artificial-intelligence-ai).
 
+
+### Rationale
+SAOFAI recognizes the inherent unpredictability of [AI](#artificial-intelligence-ai), compared to traditional [IT solutions](#it-system). [AI's](#artificial-intelligence-ai) potential to evolve, learn, and make decisions independently allows it to be a dynamic, adaptable tool that can enhance business operations and derive value in unprecedented ways. However, this potential also brings substantial business [risks](#risk). SAOFAI addresses this conundrum by creating a secure framework that empowers businesses to safely derive [value](#value) from [AI](#artificial-intelligence-ai). It seeks to balance the beneficial autonomy of [AI](#artificial-intelligence-ai) with a well-structured and robust [control](#control) mechanism that mitigates [risks](#risk), thus providing a comprehensive roadmap for the secure [adoption](#adoption-architectures) and [operation](#operations) of [AI](#artificial-intelligence-ai) within business environments.
+
 ### Structure
 First, the document [defines](#definitions) all concepts used in the document. Next, in the main part, the document discusses [operation architectures](#operation-architectures) and [adoption architectures](#adoption-architectures). There, SAOFAI identifies risks and possible benefits each architecture could offer to the [focal entity](#entity) in corresponding context (in the adoption and operation phases), and finally, exhibits case studies to exemplify them.
 
@@ -43,7 +47,7 @@ An *entity* is an individual or an organization that operates using [processes](
 
 ![Figure](Figures/AIDefinition.png)
 
-Drawing upon the definition by Russel (Russel 2010), SAOFAI defines AI as an [IT system](#it-system) that contains an [AI model](#ai-model) which solves a [domain problem](#domain-problem). Application provides an interface to a user ([human agent](#human-agent)), via which the user can formulate the formulate the problem. Then, the [application](#application) translates it to the input understandable by the [AI model](#ai-model), and translates an inference produced by the model back to the user via the interface.
+Drawing upon the definition by Russel (Russel 2010), SAOFAI defines AI as an [IT system](#it-system) that contains an [AI model](#ai-model) which solves a [domain problem](#domain-problem). Application provides an interface to a user ([human agent](#human-agent)), via which the user can formulate the problem. Then, the [application](#application) translates it to the input understandable by the [AI model](#ai-model), and translates an inference produced by the model back to the user via the interface.
 
 Since [AI models](#ai-model) can only learn how to solve [domain problems](#domain-problem), [training data](#training-data) is an integral part of the AI system. In order to teach the model, an [operator](#operator) provides [training data](#training-data) and performs training activities.
 
