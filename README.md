@@ -1,6 +1,9 @@
 # SAOFAI (Working Version)
 The working version of SAOFAI (Secure Adoption and Operation Framework for Artificial Intelligence).
 
+## TL;DR
+The SAOFAI (Secure Adoption and Operation Framework for Artificial Intelligence) is an open-source community-driven standard providing guidelines for the safe and effective use of AI in business operations. Aimed at organizations and individuals seeking to automate their operations with AI, it helps minimize associated risks such as cybersecurity, compliance, and operational issues, while maximizing value through cost reduction and benefits enhancement. The framework recognizes the unpredictability of AI, offering a secure roadmap to balance AI's beneficial autonomy with robust control mechanisms. SAOFAI is developed democratically, with all changes transparently discussed and voted on by the community, minimizing subjective biases.
+
 ## Overview
 
 ### Summary
